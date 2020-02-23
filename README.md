@@ -1,1 +1,3 @@
-# protest
+# maven-project
+
+Simple Maven Project
